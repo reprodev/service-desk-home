@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Orientation Slide 1</title>
+  <desc id="desc">Incident theory onboarding slide with MegaCorp and Service Desk Sim branding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061a34"/>
+      <stop offset="100%" stop-color="#0c2748"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2b7de0"/>
+      <stop offset="100%" stop-color="#f49a44"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="70" y="60" width="1460" height="120" rx="18" fill="#0a1f37" stroke="#37689a"/>
+  <image x="95" y="76" width="300" height="88" href="../../MegaCorpLogoV1.png" preserveAspectRatio="xMidYMid meet"/>
+  <image x="1205" y="76" width="300" height="88" href="../../ServiceDeskSimLogoV1.png" preserveAspectRatio="xMidYMid meet"/>
+  <text x="800" y="108" text-anchor="middle" fill="#dbeeff" font-size="34" font-family="Calibri, Arial" font-weight="700">Orientation 1 // Incident Theory</text>
+  <text x="800" y="142" text-anchor="middle" fill="#a9cbed" font-size="22" font-family="Calibri, Arial">If they say nothing changed, something definitely changed.</text>
+
+  <rect x="130" y="230" width="1340" height="560" rx="20" fill="#0a1a2e" stroke="#315d8a"/>
+  <rect x="170" y="280" width="1260" height="52" rx="12" fill="#122d4c"/>
+  <rect x="170" y="280" width="1010" height="52" rx="12" fill="url(#bar)"/>
+  <text x="196" y="314" fill="#091628" font-size="24" font-family="Calibri, Arial" font-weight="700">INCIDENT DETECTION ACCURACY: 80%</text>
+
+  <rect x="170" y="360" width="600" height="390" rx="14" fill="#12365d" stroke="#3e709f"/>
+  <text x="205" y="420" fill="#e2f2ff" font-size="30" font-family="Calibri, Arial" font-weight="700">New Analyst Rule</text>
+  <text x="205" y="470" fill="#c4dcf3" font-size="24" font-family="Calibri, Arial">1. Verify the user's timeline.</text>
+  <text x="205" y="512" fill="#c4dcf3" font-size="24" font-family="Calibri, Arial">2. Capture what actually changed.</text>
+  <text x="205" y="554" fill="#c4dcf3" font-size="24" font-family="Calibri, Arial">3. Prioritize recovery over blame.</text>
+  <text x="205" y="596" fill="#c4dcf3" font-size="24" font-family="Calibri, Arial">4. Document for the next shift.</text>
+
+  <rect x="800" y="360" width="630" height="390" rx="14" fill="#2a1318" stroke="#b55b64"/>
+  <text x="834" y="420" fill="#ffd5d9" font-size="30" font-family="Calibri, Arial" font-weight="700">Synergy-AI Note</text>
+  <text x="834" y="470" fill="#ffe6e8" font-size="24" font-family="Calibri, Arial">Human uncertainty reduced by guided checklists.</text>
+  <text x="834" y="512" fill="#ffe6e8" font-size="24" font-family="Calibri, Arial">Escalate only after evidence capture.</text>
+  <text x="834" y="554" fill="#ffe6e8" font-size="24" font-family="Calibri, Arial">Efficiency drift: currently acceptable.</text>
+</svg>

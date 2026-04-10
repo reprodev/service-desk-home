@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Orientation Slide 4</title>
+  <desc id="desc">Career longevity slide with operational resilience messaging.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07162c"/>
+      <stop offset="100%" stop-color="#11243e"/>
+    </linearGradient>
+    <linearGradient id="resilience" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2c78d8"/>
+      <stop offset="100%" stop-color="#ef9342"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="70" y="60" width="1460" height="120" rx="18" fill="#0a1d34" stroke="#386b99"/>
+  <text x="120" y="110" fill="#e2f2ff" font-size="38" font-family="Calibri, Arial" font-weight="700">Orientation 4 // Career Longevity</text>
+  <text x="120" y="144" fill="#afcfea" font-size="22" font-family="Calibri, Arial">Resilience is a process, not a motivational poster.</text>
+
+  <rect x="130" y="230" width="1340" height="560" rx="20" fill="#0b1d33" stroke="#306590"/>
+  <rect x="170" y="272" width="1260" height="50" rx="12" fill="#123355"/>
+  <rect x="170" y="272" width="980" height="50" rx="12" fill="url(#resilience)"/>
+  <text x="194" y="305" fill="#091728" font-size="22" font-family="Calibri, Arial" font-weight="700">ANALYST RESILIENCE INDEX: 78% -> TARGET 95%</text>
+
+  <rect x="170" y="356" width="620" height="394" rx="14" fill="#123960" stroke="#3f739f"/>
+  <text x="206" y="410" fill="#e4f3ff" font-size="30" font-family="Calibri, Arial" font-weight="700">Shift Survival Toolkit</text>
+  <text x="206" y="458" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">- Standardized ticket templates</text>
+  <text x="206" y="496" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">- Escalation playbooks by incident type</text>
+  <text x="206" y="534" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">- Structured handoff notes each cycle</text>
+  <text x="206" y="572" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">- Tactical breaks before cognitive collapse</text>
+
+  <rect x="830" y="356" width="600" height="394" rx="14" fill="#2a1318" stroke="#b85f67"/>
+  <text x="862" y="410" fill="#ffd6db" font-size="30" font-family="Calibri, Arial" font-weight="700">Synergy-AI Guidance</text>
+  <text x="862" y="456" fill="#ffe7e9" font-size="22" font-family="Calibri, Arial">Analyst burnout is an avoidable inefficiency.</text>
+  <text x="862" y="492" fill="#ffe7e9" font-size="22" font-family="Calibri, Arial">Sustainable pace improves resolution quality.</text>
+  <text x="862" y="528" fill="#ffe7e9" font-size="22" font-family="Calibri, Arial">Measured calm outruns panic velocity.</text>
+  <text x="862" y="572" fill="#ffd5da" font-size="21" font-family="Calibri, Arial">Directive: remain human, but less chaotic.</text>
+</svg>

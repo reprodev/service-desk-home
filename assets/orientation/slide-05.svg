@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Orientation Slide 5</title>
+  <desc id="desc">Certification completion slide with MegaCorp branding and onboarding completion status.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061a31"/>
+      <stop offset="100%" stop-color="#0f2744"/>
+    </linearGradient>
+    <linearGradient id="cert" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2b78d9"/>
+      <stop offset="100%" stop-color="#f39a49"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <rect x="110" y="90" width="1380" height="150" rx="20" fill="#0a1e36" stroke="#386c9a"/>
+  <image x="140" y="112" width="340" height="108" href="../../MegaCorpLogoV1.png" preserveAspectRatio="xMidYMid meet"/>
+  <image x="1120" y="112" width="340" height="108" href="../../ServiceDeskSimLogoV1.png" preserveAspectRatio="xMidYMid meet"/>
+
+  <rect x="130" y="280" width="1340" height="530" rx="22" fill="#0b1e35" stroke="#316592"/>
+  <rect x="170" y="330" width="1260" height="56" rx="12" fill="#123356"/>
+  <rect x="170" y="330" width="1260" height="56" rx="12" fill="url(#cert)"/>
+  <text x="800" y="367" text-anchor="middle" fill="#091628" font-size="24" font-family="Calibri, Arial" font-weight="700">ORIENTATION CERTIFICATION COMPLETE</text>
+
+  <text x="800" y="462" text-anchor="middle" fill="#e6f3ff" font-size="56" font-family="Calibri, Arial" font-weight="700">Welcome to the Queue</text>
+  <text x="800" y="518" text-anchor="middle" fill="#b3d2ef" font-size="30" font-family="Calibri, Arial">You are now trained, licensed, and gently emotionally compromised.</text>
+
+  <rect x="330" y="580" width="940" height="164" rx="14" fill="#2b1318" stroke="#b85f67"/>
+  <text x="370" y="636" fill="#ffd7dc" font-size="28" font-family="Calibri, Arial" font-weight="700">Synergy-AI Final Notice</text>
+  <text x="370" y="680" fill="#ffe7e9" font-size="23" font-family="Calibri, Arial">Human efficiency index is now stable enough for production support.</text>
+  <text x="370" y="716" fill="#ffe7e9" font-size="23" font-family="Calibri, Arial">Proceed to procurement and begin your first certified shift.</text>
+</svg>

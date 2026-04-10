@@ -1,0 +1,1 @@
+import{c as e,l as t,o as n,s as r}from"./zap-D8BD-qM0.js";import{t as i}from"./TrySynergyPortal-CvsMdwQd.js";var a=t(e(),1),o=r(),s=n();(0,o.createRoot)(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(i,{onReturn:()=>{window.location.href=`./index.html`}})}));

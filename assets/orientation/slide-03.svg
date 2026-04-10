@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Orientation Slide 3</title>
+  <desc id="desc">Workflow reality slide for queue pressure and escalation etiquette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07182d"/>
+      <stop offset="100%" stop-color="#10243f"/>
+    </linearGradient>
+    <linearGradient id="queue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2d7bdd"/>
+      <stop offset="100%" stop-color="#ed8e3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="70" y="60" width="1460" height="120" rx="18" fill="#0a1d34" stroke="#386b99"/>
+  <text x="120" y="110" fill="#e2f2ff" font-size="38" font-family="Calibri, Arial" font-weight="700">Orientation 3 // Workflow Reality</text>
+  <text x="120" y="144" fill="#afcfea" font-size="22" font-family="Calibri, Arial">Calm process beats heroic improvisation.</text>
+
+  <rect x="130" y="230" width="1340" height="560" rx="20" fill="#0b1d33" stroke="#306590"/>
+  <rect x="170" y="272" width="1260" height="50" rx="12" fill="#123355"/>
+  <rect x="170" y="272" width="930" height="50" rx="12" fill="url(#queue)"/>
+  <text x="194" y="305" fill="#091728" font-size="22" font-family="Calibri, Arial" font-weight="700">QUEUE HANDOFF INTEGRITY: 74% -> TARGET 92%</text>
+
+  <rect x="170" y="356" width="820" height="394" rx="14" fill="#123960" stroke="#3f739f"/>
+  <text x="206" y="410" fill="#e4f3ff" font-size="30" font-family="Calibri, Arial" font-weight="700">Preferred Analyst Sequence</text>
+  <text x="206" y="456" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">1. Intake facts, not emotional metadata.</text>
+  <text x="206" y="496" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">2. Prioritize by impact and blast radius.</text>
+  <text x="206" y="536" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">3. Escalate with concise incident context.</text>
+  <text x="206" y="576" fill="#c6ddf3" font-size="23" font-family="Calibri, Arial">4. Communicate resolution and follow-up.</text>
+  <text x="206" y="628" fill="#9fc7eb" font-size="21" font-family="Calibri, Arial">Outcome: fewer loops, faster restores, less existential dread.</text>
+
+  <rect x="1030" y="356" width="400" height="394" rx="14" fill="#2a1318" stroke="#b85f67"/>
+  <text x="1060" y="410" fill="#ffd6db" font-size="30" font-family="Calibri, Arial" font-weight="700">Synergy-AI Audit</text>
+  <text x="1060" y="456" fill="#ffe7e9" font-size="22" font-family="Calibri, Arial">Queue drift: decreasing.</text>
+  <text x="1060" y="492" fill="#ffe7e9" font-size="22" font-family="Calibri, Arial">Escalation quality: improving.</text>
+  <text x="1060" y="528" fill="#ffe7e9" font-size="22" font-family="Calibri, Arial">Human efficiency: acceptable.</text>
+</svg>

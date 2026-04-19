@@ -1,0 +1,1 @@
+import{c as e,l as t,s as n,u as r}from"./zap-Cc_h1S0z.js";import{t as i}from"./SynergyPortal-B2R5LAU0.js";var a=r(t(),1),o=e(),s=n();(0,o.createRoot)(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(`div`,{className:`bg-black min-h-screen`,children:(0,s.jsx)(i,{onReturn:()=>{window.location.href=`./index.html`}})})}));
